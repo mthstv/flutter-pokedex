@@ -7,4 +7,4 @@ To run this app, simply run `flutter run` on your terminal you'll need an Androi
 This is an ongoing project of mine for learning flutter, suggestions on the code are much appreciated! 
 I'll also try do document my progress in this repository, so check regularly for updates!
 
-I'm learning flutter right now for my postgraduate course [Multi-platform Mobile Applications Projects at Descomplica](https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/) 💚
+I'm learning flutter right now for my postgraduate course [Mobile & Multi-platform Applications Projects at Descomplica](https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/) 💚
