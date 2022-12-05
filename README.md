@@ -2,7 +2,7 @@
 
 This is a WIP [Flutter](https://flutter.dev/) Pokédex app using the free API [PokeAPI](https://pokeapi.co/).
 
-To run this app, simply run `flutter run` on your terminal you'll need an Android or IPhone emulator ruunning.
+To run this app, simply run `flutter run` on your terminal. You'll need an Android or IPhone emulator ruunning.
 
 This is an ongoing project of mine for learning flutter, suggestions on the code are much appreciated! 
 I'll also try do document my progress in this repository, so check regularly for updates!
