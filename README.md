@@ -1,16 +1,10 @@
-# pokedex
+# Flutter Pokédex
 
-A new Flutter project.
+This is a WIP [Flutter](https://flutter.dev/) Pokédex app using the free API [PokeAPI](https://pokeapi.co/).
 
-## Getting Started
+To run this app, simply run `flutter run` on your terminal you'll need an Android or IPhone emulator ruunning.
 
-This project is a starting point for a Flutter application.
+This is an ongoing project of mine for learning flutter, suggestions on the code are much appreciated! 
+I'll also try do document my progress in this repository, so check regularly for updates!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'm learning flutter right now for my postgraduate course [Multi-platform Mobile Applications Projects at Descomplica](https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/) 💚
